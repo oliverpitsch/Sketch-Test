@@ -1,0 +1,80 @@
+{
+  "_class": "group",
+  "do_objectID": "689A3022-79B9-44AB-A501-C49FE4556EBB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@4x",
+        "namingScheme": 0,
+        "scale": 4,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 52,
+    "width": 52,
+    "x": 394,
+    "y": 1
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "23E553E6-79BE-4DD6-B367-7A7E575777F8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E1944A18-BE4F-4CA6-B049-8CBD4DDD6308"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "40932D9C-80FC-4F5C-BC29-82A5B538DFD3"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9F064978-9453-40C5-8C00-2BB738B558DB"
+    }
+  ],
+  "name": "ic-facetime",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 8.100000023841858,
+      "type": 0
+    },
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

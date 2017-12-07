@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "do_objectID": "9C9CC123-94BB-4082-93F9-040C7042FC73",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 37,
+    "width": 129,
+    "x": -46,
+    "y": 19
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "6040D01D-AF1A-4627-A1F0-8131F5F5A7FB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EB752CF9-99B9-4D3C-BE42-8D205DF8903D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F68E0310-7AB9-4ED2-BED3-B20AC22DAE14"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0E563AF0-05D0-4740-A434-41BA20810A8B"
+    }
+  ],
+  "name": "waves",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}
