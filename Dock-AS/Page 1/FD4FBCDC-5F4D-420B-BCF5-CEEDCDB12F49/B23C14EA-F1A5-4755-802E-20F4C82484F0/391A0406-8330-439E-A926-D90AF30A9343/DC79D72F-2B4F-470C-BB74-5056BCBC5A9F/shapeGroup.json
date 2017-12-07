@@ -110,7 +110,7 @@
         "_class": "fill",
         "color": {
           "_class": "color",
-          "alpha": 0.4962635869565217,
+          "alpha": 1,
           "blue": 0,
           "green": 0.6352941176470588,
           "red": 1
@@ -148,7 +148,7 @@
           ],
           "to": "{0.5, 1}"
         },
-        "isEnabled": false,
+        "isEnabled": true,
         "noiseIndex": 0,
         "noiseIntensity": 0,
         "patternFillType": 1,
